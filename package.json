@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is a sample API with json-server & JWT Auth",
+  "author": "Fauzer Junior",
+  "private": true,
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "json-server": "^0.14.2",
+    "jsonwebtoken": "^8.1.0"
+  }
+}

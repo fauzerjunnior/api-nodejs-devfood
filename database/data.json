@@ -1,0 +1,64 @@
+{
+  "products": [{
+    "category": {
+      "restaurant": [
+        {
+          "id": 1,
+          "name": "Matuto",
+          "type": "Churrasco",
+          "distance": "1.22",
+          "time_delivery": "33-44",
+          "cost_delivery": "5,99",
+          "image": "https://imgur.com/DLrQDfr.png"
+        },
+        {
+          "id": 2,
+          "name": "Griletto",
+          "type": "Brasileira",
+          "distance": "0.80",
+          "time_delivery": "30-40",
+          "cost_delivery": "3,99",
+          "image": "https://imgur.com/NJnyiBO.png"
+        },
+        {
+          "id": 3,
+          "name": "Lanhão",
+          "type": "Lanches",
+          "distance": "2.55",
+          "time_delivery": "45-70",
+          "cost_delivery": "9,99",
+          "image": "https://imgur.com/lXXteJ3.png"
+        }
+      ],
+      "market": [
+        {
+          "id": 1,
+          "name": "Oba",
+          "type": "Hortifruti",
+          "distance": "1.22",
+          "time_delivery": "33-44",
+          "cost_delivery": "5,99",
+          "image": "https://imgur.com/mLgIigM.png"
+        },
+        {
+          "id": 2,
+          "name": "Roldão",
+          "type": "Atacadista",
+          "distance": "0.80",
+          "time_delivery": "30-40",
+          "cost_delivery": "3,99",
+          "image": "https://imgur.com/MPItMgJ.png"
+        },
+        {
+          "id": 3,
+          "name": "Dia",
+          "type": "Supermercado",
+          "distance": "2.55",
+          "time_delivery": "45-70",
+          "cost_delivery": "9,99",
+          "image": "https://imgur.com/EZb5Vdj.png"
+        }
+      ]
+    }
+  }]
+}
